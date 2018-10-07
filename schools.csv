@@ -1,0 +1,1001 @@
+,Authors,Citations,Institutions
+0,richard s. sutton,61371,0
+1,michael l. littman,38841,brown university
+2,thomas dietterich,34841,oregon state university
+3,andrew moore,32556,carnegie mellon
+4,satinder singh,31616,university of michigan
+5,thore graepel,19116,ucl
+6,michael j frank,18783,brown university
+7,tie-yan liu,18104,0
+8,david silver,17600,google
+9,sean meyn,15368,0
+10,kenji doya,14887,okinawa institute of science and technology
+11,robert babuska,14592,delft university of technology
+12,jan peters,12637,technische universität darmstadt
+13,nowe ann,11459,0
+14,simon osindero,11236,0
+15,csaba szepesvari,10621,university of alberta
+16,pascal poupart,9950,university of waterloo
+17,charles anderson,9562,colorado state university
+18,timothy p. lillicrap,8837,google
+19,benjamin van roy,8531,stanford university
+20,yael niv,8337,princeton university
+21,fiery cushman,8274,harvard university
+22,"hk lam, hak keung lam",7962,king's college london
+23,caglar gulcehre,7893,university of montreal
+24,doina precup,7827,mcgill university
+25,ronald parr,7705,duke university
+26,lei yu,7505,binghamton university
+27,jonathan roiser,7481,ucl
+28,rémi munos,7437,0
+29,jennifer healey,7373,intel
+30,daeyeol lee,7234,yale university
+31,thomas j. walsh,7133,mit
+32,damien ernst,7121,university of liège
+33,alan pickering,7119,"goldsmiths, university of london"
+34,sergey levine,7068,uc berkeley
+35,naoshige uchida,6903,harvard university
+36,joni wallis,6819,university of california at berkeley
+37,michael bowling,6796,0
+38,lihong li (李力鸿),6665,google
+39,thilo womelsdorf,6330,vanderbilt university
+40,josh berke,6143,ucsf
+41,pierre-yves oudeyer,5934,inria
+42,jan gläscher,5845,0
+43,tom verguts,5753,ghent university
+44,tao qin,5083,0
+45,marc g. bellemare,5028,google
+46,jooyoung park,4999,korea university
+47,qinglai wei,4777,0
+48,s shamshirband,4706,0
+49,christopher fiorillo,4435,kaist
+50,georg ostrovski,4357,google
+51,antonio celani,4353,ictp
+52,james a waltz,4316,university of maryland
+53,tom schaul,3861,0
+54,marco wiering,3663,university of groningen
+55,matthew e. taylor,3655,washington state university
+56,shimon whiteson,3554,university of oxford
+57,james f cavanagh,3497,university of new mexico
+58,shakir mohamed,3370,0
+59,kerstin preuschoff,3367,university of geneva
+60,shengbo eben li（李升波）,3285,tsinghua university
+61,nahum shimkin,3260,technion
+62,stephane pinel,3218,0
+63,mohammad norouzi,3088,google
+64,(peter) xi chen,3058,uc berkeley
+65,marc deisenroth,3040,imperial college london
+66,jian li,2922,peking university
+67,marshall g. hussain shuler,2877,johns hopkins university
+68,steven bradtke,2859,0
+69,hyuk lim,2849,gwangju institute of science and technology
+70,lucian busoniu,2796,technical university of cluj-napoca
+71,luca rigazio,2719,0
+72,minlie huang,2703,tsinghua university
+73,ji liu,2667,university of rochester
+74,pieter jonker,2643,delft university of technology
+75,sylvain gelly,2643,0
+76,xuejun liao,2525,0
+77,tim salimans,2522,google
+78,keyou you  游科友,2461,"tsinghua university, beijing"
+79,dario amodei,2459,0
+80,erie boorman,2435,university of oxford
+81,g. elliott wimmer,2414,0
+82,daniel kudenko,2386,university of york
+83,mitsuko watabe-uchida,2378,harvard university
+84,emma brunskill,2366,stanford university
+85,george konidaris,2322,brown
+86,itamar arel,2316,0
+87,kazuyuki samejima,2232,tamagawa university
+88,sander bohte,2201,cwi amsterdam
+89,abhijit gosavi,2140,missouri s&t
+90,hado van hasselt,2086,google
+91,alexandre dombrovski,2066,university of pittsburgh
+92,keke gai,2060,beijing institute of technology
+93,balaraman ravindran,2036,indian institute of technology madras
+94,ludovic denoyer,1974,0
+95,daoyi dong,1971,university of new south wales
+96,joel lehman,1958,0
+97,chelsea finn,1937,uc berkeley
+98,aske plaat,1856,leiden university
+99,yan duan,1818,uc berkeley
+100,kurt driessens,1811,maastricht university
+101,soumya ray,1791,case western reserve university
+102,joseph j. paton,1778,champalimaud neuroscience programme
+103,dong eui chang,1735,kaist
+104,robb rutledge,1726,university college london
+105,aaron j gruber,1703,0
+106,genela morris,1688,haifa university
+107,iulian vlad serban,1642,university of montreal
+108,hamidreza modares,1636,michigan state university
+109,frank sehnke,1612,0
+110,rémi coulom,1573,université lille 3
+111,manoj kumar,1552,0
+112,ulrik r. beierholm,1538,durham university
+113,jonathan britt,1506,mcgill university
+114,hyojung seo,1483,yale university
+115,rukmini iyer,1473,microsoft
+116,hamid reza maei,1469,stanford university
+117,weinan zhang,1440,shanghai jiao tong university
+118,qiang liu,1418,ut austin
+119,kazuteru miyazaki,1416,0
+120,yu-jen chen,1397,0
+121,jian tang,1375,0
+122,eiji uchibe,1374,0
+123,gerhard jocham,1363,heinrich-heine-universität düsseldorf
+124,katja hofmann,1354,0
+125,mohammad bagher naghibi sistani,1340,ferdowsi university of mashhad
+126,claessens bert,1333,0
+127,petar kormushev,1332,imperial college london
+128,jia rao,1292,university of texas at arlington
+129,julian ibarz,1276,google inc
+130,anne ge collins,1271,uc berkeley
+131,istván szita,1271,google
+132,christopher amato,1256,northeastern university
+133,brendan o'donoghue,1249,0
+134,matthew nassar,1243,brown university
+135,matthieu geist,1242,université de lorraine
+136,shiho kim,1242,yonsei university
+137,yasushi kobayashi,1237,osaka university
+138,joohyun lee,1233,hanyang university
+139,daniel lizotte,1218,university of western ontario
+140,miles j. johnson,1216,0
+141,deepak pathak,1214,uc berkeley
+142,william alexander,1213,universiteit gent
+143,jordan a. taylor,1209,princeton university
+144,bolan su,1205,0
+145,philippe beaudoin,1189,0
+146,junge zhang,1176,0
+147,marcello restelli,1172,politecnico di milano
+148,yu jiang,1166,0
+149,w bradley knox,1155,0
+150,elena gaudioso,1140,universidad nacional de educación a distancia
+151,alexander (sasha) vezhnevets,1137,google
+152,mattia rigotti,1136,0
+153,david held,1120,carnegie mellon university
+154,ross otto,1114,mcgill university
+155,liang zhao,1114,0
+156,francisco s. melo,1111,inesc-id
+157,qinmin yang,1106,zhejiang university
+158,richard morris,1104,university of sydney
+159,tim rocktäschel,1100,university college london
+160,patrick m. pilarski,1096,university of alberta
+161,philippe preux,1075,0
+162,jack digiovanna,1066,0
+163,ruizhuo song  宋睿卓,1065,university of science and technology beijing
+164,hongliang li (李宏亮),1059,0
+165,peter vamplew,1057,federation university australia
+166,chunlin chen,1052,nanjing university
+167,bharathan balaji,1050,0
+168,thomas gabel,1048,0
+169,todd hester,1048,google
+170,poornima kumar,1048,0
+171,anil rao,1037,nokia
+172,elliot ludvig,1034,university of warwick
+173,stuart reynolds,986,0
+174,christos dimitrakakis,982,0
+175,nidhi hegde,979,0
+176,david l. roberts,973,north carolina state university
+177,boris reuderink,971,0
+178,aditya mahajan,970,mcgill university
+179,woo-young ahn,963,seoul national university
+180,anna helena reali costa,960,universidade de são paulo
+181,benoît girard,959,0
+182,krishna sankar,922,0
+183,maarten speekenbrink,920,university college london
+184,liana romaniuk,919,university of edinburgh
+185,vincent d. costa,917,nih
+186,takamitsu matsubara,916,nara institute of science and technology
+187,erin rich,916,icahn school of medicine at mount sinai
+188,zhongwen xu,898,0
+189,seyed mohammad khansari zadeh,896,0
+190,jason gauci,889,apple
+191,david wingate,873,brigham young university
+192,richard dazeley,847,deakin university
+193,guan wang,833,0
+194,dhs maithripala,829,university of peradeniya
+195,peter a beling,825,university of virginia
+196,rushikesh kamalapurkar,821,oklahoma state university
+197,xiaowei hu,817,nankai university
+198,larry d. pyeatt,808,south dakota school of mines and technology
+199,daniel rasmussen,803,0
+200,wojciech jaśkowski,796,poznan university of technology
+201,carlos diuk,790,facebook
+202,baolin peng,786,chinese university of hong kong
+203,sarah filippi,775,imperial college london
+204,madalina m. drugan,768,0
+205,christian buck,763,0
+206,joschka boedecker,751,university of freiburg
+207,suat gumussoy,751,mathworks
+208,senne braem,728,ghent university
+209,thomas rueckstiess,720,tu münchen
+210,amir-massoud farahmand,719,0
+211,alborz geramifard,709,0
+212,linxi (jim) fan,701,stanford university
+213,odalric-ambrym maillard,696,0
+214,tom sambrook,679,0
+215,ioannis konstantinou,674,ntua
+216,matthew luciw,672,0
+217,andrzej pacut,671,warsaw university of technology
+218,leslie keniston,671,university of maryland eastern shore
+219,thomas keller,663,university of basel
+220,minghui qiu,661,0
+221,ana galindo-serrano,659,0
+222,carlos v. regueiro,641,university of a coruña
+223,anders jonsson,638,universitat pompeu fabra
+224,yoshihiko kunisato,634,0
+225,erik-jan van kampen,629,delft university of technology
+226,malcolm strens,627,0
+227,hector palacios,626,0
+228,gergely neu,626,universitat pompeu fabra
+229,aviv tamar,617,uc berkeley
+230,mark ring,613,0
+231,christina m. figueroa,612,0
+232,philip thomas,611,university of massachusetts amherst
+233,chunxiao liu,609,0
+234,jan hendrik metzen,608,0
+235,wojciech marian czarnecki,604,0
+236,nicholas t franklin,599,harvard university
+237,pablo samuel castro,594,google
+238,haitham bou ammar,589,0
+239,imthias ahamed t parambath,583,0
+240,stefano bromuri,582,open university of the netherlands
+241,adam white,574,0
+242,shu wang,567,rutgers university
+243,ali ridho barakbah,558,politeknik elektronika negeri surabaya
+244,yilin shen,554,0
+245,motonobu hattori (服部元信),554,university of yamanashi
+246,jane wang,553,0
+247,theophane weber,550,0
+248,artus krohn-grimberghe,548,0
+249,haonan yu,545,0
+250,bo liu,542,0
+251,peter vrancx,542,0
+252,bilal piot,541,0
+253,anne schuth,537,0
+254,jordi bieger,529,reykjavik university
+255,enric celaya,527,0
+256,robby goetschalckx,525,0
+257,christian daniel,520,0
+258,sarath chandar,519,university of montreal
+259,vernon j. lawhern,518,u.s. army research laboratory
+260,anupama kowli,517,iit bombay
+261,brian tanner,516,0
+262,karthik narasimhan,514,princeton university
+263,félix hernández del olmo,504,uned
+264,s. syafiie,501,0
+265,koichi moriyama,498,nagoya institute of technology
+266,daniel hennes,497,university of stuttgart
+267,krishnamurthy dvijotham,492,0
+268,qiuyu(gavin) peng,491,0
+269,andre barreto,482,google
+270,scott niekum,480,university of texas at austin
+271,qiangfeng peter lau,477,google inc
+272,will moore,474,harvard university
+273,mark cutler,469,0
+274,eirini eleni tsiropoulou,462,university of new mexico
+275,yoichi hirashima,459,0
+276,prashanth la,457,iit madras
+277,mehdi fatemi,456,0
+278,alicia wolfe,452,university of vermont
+279,enrique munoz de cote,450,0
+280,junhyuk oh,450,0
+281,bastian bischoff,447,0
+282,shayak banerjee,441,0
+283,meng guo,438,robert bosch gmbh
+284,hyungil ahn,436,0
+285,irene van de vijver,433,university of amsterdam
+286,gavin taylor,431,us naval academy
+287,diederik m. roijers,428,0
+288,torbjorn s. dahl,427,university of plymouth
+289,nathan sprague,427,james madison university
+290,david spieler,425,munich university of applied science
+291,michael r. dawson,422,university of alberta
+292,carlos fuertes,413,0
+293,fereshteh sadeghi,411,university of washington
+294,arren glover,410,istituto italiano di tecnologia
+295,rani moran,409,ucl
+296,mohammad gheshlaghi azar,406,0
+297,yuanheng zhu,405,"institute of automation, chinese academy of sciences"
+298,vanessa m brown,404,university of pittsburgh
+299,michael kaisers,401,centrum wiskunde & informatica
+300,john asmuth,396,rutgers university
+301,raphael fonteneau,394,"university of liège, liège"
+302,wouter caarls,394,pontifical catholic university of rio de janeiro
+303,tor lattimore,393,google
+304,romain laroche,393,0
+305,zhiwei (tony) qin,391,0
+306,christopher h donahue,383,0
+307,filip wolski,383,0
+308,yunpeng pan,382,georgia institute of technology
+309,roberto calandra,381,uc berkeley
+310,robert d vincent,379,mcgill university
+311,dr. benjamin adrian,379,0
+312,aaron m. bornstein,377,uc irvine
+313,denis yarats,376,new york university
+314,bahare kiumarsi,375,"university of illinois, urbana-champaign"
+315,david scott krueger,372,university of montreal
+316,leo pape,368,idsia
+317,will dabney,368,0
+318,julien perez,367,0
+319,animesh garg,364,stanford university
+320,daniel  urieli,360,university of texas at austin
+321,xiujun li,360,0
+322,lantao yu,359,stanford university
+323,sadegh bolouki,357,0
+324,weinan gao,352,georgia southern university
+325,youngwoon lee,349,usc
+326,audrunas gruslys,349,0
+327,josé antonio martín h.,346,0
+328,tao jiang,344,0
+329,"natalia díaz-rodríguez, phd",343,ensta paristech
+330,victor gabillon,342,qut
+331,xiaofan he,341,lamar university
+332,giles story,339,university college london
+333,igor v. karpov,338,university of texas at austin
+334,senthilkumar chandramohan,337,microsoft
+335,m. sadegh talebi,333,0
+336,peter sunehag,331,google
+337,ryan j. mccall,329,university of memphis
+338,herke van hoof,329,university of amsterdam
+339,jakub sygnowski,329,0
+340,dotan di castro,327,0
+341,alexandros paraschos,323,0
+342,masoud mahootchi,323,amirkabir university of technology
+343,craig sherstan,322,university of alberta
+344,nicolas w schuck,320,max planck institute for human development
+345,tanguy urvoy,320,0
+346,ali nouri,316,rutgers university
+347,michel tokic,313,0
+348,chunbin qin,313,henan university
+349,johannes friedrich,313,0
+350,jan leike,311,0
+351,pannag r sanketi,306,0
+352,glen berseth,305,university of british columbia
+353,kaushik subramanian,304,georgia institute of technology
+354,marcelo gomes mattar,303,princeton university
+355,saminda abeyruwan,303,university of miami
+356,muhammad iqbal,302,0
+357,emmanuel bengio,302,mcgill university
+358,norm ferns,299,0
+359,christoph dann,297,carnegie mellon university
+360,khoi vo,297,duke university
+361,yohannes kassahun,294,university of bremen
+362,thomas geier,292,0
+363,ju tian,291,harvard university
+364,suratna budalakoti,290,university of texas at austin
+365,dileep kalathil,290,texas a&m university
+366,michael fairbank,288,university of essex
+367,pedro sequeira,286,northeastern university
+368,justin klotz,286,university of florida
+369,kristof van moffaert,284,vrije universiteit brussel
+370,arif a. hamid,284,brown university
+371,dr. vali derhami,280,yazd university
+372,frederik ruelens,280,0
+373,antoine chambaz,280,université paris descartes
+374,bo zhou（周博）,272,0
+375,adrien couëtoux,272,0
+376,miao liu,271,0
+377,lucas beyer,270,google
+378,rika antonova,268,kth
+379,ilya kostrikov,267,new york university
+380,jing jiang,267,university of technology sydney
+381,anna harutyunyan,266,0
+382,stefan elfwing,266,0
+383,hélia pouyllau,265,0
+384,salva ardid,264,0
+385,konstantinos c. zikidis,264,0
+386,ali akbar akbari,264,"ferdowsi university of mashhad, mashhad"
+387,amir alansary,263,imperial
+388,michael neunert,263,0
+389,pablo escandell-montero,260,universidad de valencia
+390,françois schnitzler,259,technicolor
+391,tim brys,258,vrije universiteit brussel
+392,abhishek gupta,258,"university of california, berkeley"
+393,francis maes,256,university of leuven
+394,hyunsoo kim,255,0
+395,huazhe(harry) xu,254,0
+396,kai arulkumaran,253,imperial college london
+397,enda barrett,249,"national university of ireland, galway"
+398,xue bin peng,248,"university of california, berkeley"
+399,vihan jain,248,google inc
+400,rudolf lioutikov,246,technische universität darmstadt
+401,benjamin rosman,245,csir
+402,said g khan   ( sg khan). phd robtics and control,243,university of bristol
+403,"masoud s. nosrati, phd",241,0
+404,piji li,241,0
+405,dong min kim,240,soonchunhyang university
+406,giuseppe cuccu,240,university of fribourg
+407,erik talvitie,239,franklin and marshall college
+408,robert loftin,239,north carolina state university
+409,tim (tianlin) shi,237,stanford university
+410,jean harb,236,mcgill university
+411,xueying guo,234,"university of california, davis"
+412,landon kraemer,232,university of southern mississippi
+413,joaquin fernandez-tapia,231,université pierre et marie curie
+414,stefanos eleftheriadis,228,0
+415,alexander fabisch,227,0
+416,daan bloembergen,226,centrum wiskunde & informatica
+417,atil iscen,225,google
+418,felix berkenkamp,224,eth zurich
+419,pablo hernandez-leal,224,0
+420,donghyun kwak,222,seoul national university
+421,mehmet ali ergun,221,i̇stanbul şehir university
+422,heinrich küttler,218,0
+423,emmanouil konstantinidis,217,university of leeds
+424,alexandros papangelis,216,0
+425,pierre-luc bacon,216,mcgill university
+426,coline devin,215,"university of california, berkeley"
+427,ethan selfridge,214,0
+428,jae young lee,214,university of alberta
+429,arina buzdalova,213,itmo university
+430,teng teck hou 邓德豪,212,0
+431,ehsan hosseini-asl,212,0
+432,pawel wawrzynski,211,warsaw university of technology
+433,rueckert elmar,210,universität zu lübeck
+434,jeffrey j. berg,210,new york university
+435,arnau carrera viñas,209,0
+436,timothy a mann,209,google
+437,a. rupam mahmood,208,0
+438,jonathan bragg,206,stanford university
+439,hamid boubertakh,206,university of jijel
+440,tarek taha,205,0
+441,"eliana vassena, phd",205,0
+442,layla el asri,205,0
+443,jemin hwangbo,204,eth zurich
+444,david robles,203,university of essex
+445,marcin szubert,203,university of vermont
+446,aleksandra faust,203,google
+447,richard allmendinger,202,university of manchester
+448,arya irani,201,georgia institute of technology
+449,zhe xu,199,shanghai jiao tong university
+450,alexander genauck,197,charité - universitätsmedizin berlin
+451,mark van der wilk,197,university of cambridge
+452,arjun sharma,197,carnegie mellon university
+453,robert coop,196,0
+454,lin f. yang,196,princeton university
+455,job schepens,195,"freie universität, berlin"
+456,christian wirth,195,tu darmstadt
+457,francisco m. garcia,195,university of massachusetts - amherst
+458,noam brown,191,carnegie mellon university
+459,tuomas haarnoja,190,"university of california, berkeley"
+460,audrey durand,189,mcgill university
+461,marlos c. machado,188,university of alberta
+462,harm van seijen,188,university of alberta
+463,mehrnaz kh. hazrati,187,intel corporation
+464,ida momennejad,187,princeton university
+465,georgios kontes,186,fraunhofer iis
+466,henryk michalewski,186,university of warsaw
+467,adrià colomé,185,0
+468,matthias plappert,184,0
+469,lei tai,183,hkust
+470,abbas abdolmaleki,181,0
+471,nantas nardelli,179,university of oxford
+472,yu lei,179,hong kong polytechnic university
+473,dookun park,179,microsoft
+474,jingchu liu,178,0
+475,tom b brown,178,google
+476,xingdi yuan,178,0
+477,cheng zhenbo,177,zhejiang university of technology
+478,aleksandr i. panov,177,0
+479,david lópez moreno,177,0
+480,akihiko yamaguchi,176,tohoku university
+481,varun raj kompella,175,0
+482,ritchie lee,173,carnegie mellon university silicon valley
+483,vukosi marivate,172,0
+484,sergio valcarcel macua,170,0
+485,fadri furrer,170,eth zurich
+486,seyed reza ahmadzadeh,164,georgia institute of technology
+487,josiah p  hanna,163,university of texas at austin
+488,nan jiang,162,uiuc
+489,sergiu goschin,161,google
+490,majid alkaee taleghan,161,oregon state university
+491,xingguo chen,160,0
+492,mahdi milani fard,159,google inc
+493,rasool fakoor,158,university of texas at arlington
+494,tom zahavy,156,technion
+495,daniel j. mankowitz,153,google
+496,li zhou,150,carnegie mellon university
+497,anna goldie,150,google
+498,omid askarisichani,149,"university of california, santa barbara"
+499,wu yuankai,148,beijing institute of technology
+500,anand ramamoorthy,147,0
+501,eric rombokas,147,university of washington mechanical engineering
+502,ashkan haji hosseinloo,147,massachusetts institute of technology
+503,jessie huang,146,mcgill university
+504,liang zhang,146,0
+505,emmanuel rachelson,144,0
+506,roy fox,143,uc berkeley
+507,shayegan omidshafiei,143,massachusetts institute of technology
+508,tiancheng zhao,143,carnegie mellon university
+509,matteo pirotta,142,0
+510,ruiming tang,142,huawei
+511,pinxin long,142,0
+512,aijun bai,141,microsoft
+513,deepak a vidhate,141,0
+514,garrett thomas,141,stanford university
+515,dr. muhidul islam khan,140,0
+516,kory mathewson,139,university of alberta
+517,rustam issabekov,138,university of ballarat
+518,surya bhupatiraju,137,google
+519,mark crowley,137,university of waterloo
+520,hendrik baier,135,university of york
+521,barrett ames,135,duke university
+522,bei peng,134,washington state university
+523,sujit rokka chhetri,134,"university of california, irvine"
+524,liang tong,134,washington university in st. louis
+525,anil  kumar yadav,132,0
+526,davood hajinezhad,132,duke university
+527,patrick mannion,132,galway-mayo institute of technology
+528,iñigo casanueva,132,university of cambridge
+529,zhenyu guo,130,0
+530,haoran tang,130,"university of california, berkeley"
+531,han cai,130,shanghai jiao tong university
+532,robert wright,128,0
+533,dr. hitesh shah,127,gcet
+534,steven bohez,127,0
+535,"marco todescato, ph.d.",127,robert bosch gmbh
+536,vassilis vassiliades,125,inria
+537,vincent valton,125,university college london
+538,grady williams,125,georgia institute of technology
+539,shang-wen (daniel) li,125,apple
+540,david martínez,124,0
+541,masoud goharimanesh,124,ferdowsi university of mashhad
+542,elif tugce ceran,124,imperial college london
+543,evan racah,124,université de montréal
+544,akshay narayan,123,national university of singapore
+545,giovanni de magistris,123,0
+546,gregory farquhar,123,university of oxford
+547,aswin raghavan,122,sri international
+548,jayesh k. gupta,122,stanford university
+549,jing wang,121,0
+550,ramya ramakrishnan,121,massachusetts institute of technology
+551,luiz antonio celiberto junior,120,universidade federal do abc
+552,seyed saeid masoumzadeh,119,0
+553,tim vieira,119,johns hopkins university
+554,minwoo lee,117,unc charlotte
+555,dmitry kangin,117,university of exeter
+556,shivam vats,116,"indian institute of technology, kharagpur"
+557,vieri giuliano santucci,115,0
+558,soroush haeri,115,simon fraser university
+559,kimberly lauren stachenfeld,115,0
+560,dionysios s. kalogerias,115,princeton university
+561,tor tarantola,115,0
+562,maxime chevalier-boisvert,114,université de montréal
+563,dario bega,113,0
+564,tianhe yu,113,uc berkeley
+565,carlos riquelme,112,google
+566,chairi kiourt,110,hellenic open university
+567,shipra kapoor,110,university of york
+568,kavosh asadi,108,brown university
+569,paolo tommasino,107,0
+570,yanlong huang,107,istituto italiano di tecnologia
+571,zhenpeng zhou,107,stanford university
+572,xiaoxi zhang,106,university of hong kong
+573,vashisht madhavan,106,0
+574,nandan sudarsanam,105,indian institute of technology-madras
+575,caroline p. carvalho chanel,105,0
+576,davide zambrano,104,centrum wiskunde & informatica
+577,ishan durugkar,104,university of texas at austin
+578,julien perolat,104,0
+579,shitian shen,103,ncsu
+580,xinghai sun,103,0
+581,pooia lalbakhsh,101,0
+582,shayan doroudi,101,0
+583,hanchen xu,100,university of illinois at urbana-champaign
+584,yihui he,100,carnegie mellon university
+585,xiuli chen,100,university of birmingham
+586,robert c grande,99,massachusetts institute of technology
+587,sanket kamthe,99,imperial college london
+588,stefan magureanu,98,kth royal institute of technology
+589,johannes heinrich,98,university college london
+590,sam zorowitz,97,0
+591,dr. mahmoud abou-nasr,97,0
+592,mark rowland,97,university of cambridge
+593,elnaz nouri,96,university of southern california
+594,liam macdermed,96,georgia tech
+595,roberto capobianco,96,sapienza university of rome
+596,abhinav agarwalla,96,indian institute of technology kharagpur
+597,david l. st-pierre,95,université du québec à trois-rivières
+598,dejan markovikj,95,0
+599,chao-kai chiang,95,university of southern california
+600,adam taylor,93,"trinity college, dublin"
+601,peyman tavallali,93,0
+602,matthew tsz kiu chan,93,university of waterloo
+603,zhiguang cao,93,national university of singapore
+604,gabriel barth-maron,93,google
+605,jaldert rombouts,92,0
+606,atrisha sarkar,92,university of waterloo
+607,stephen kelly,92,dalhousie university
+608,yunzheng tao,92,beijing university of posts and telecommunications
+609,nikolaos tziortziotis,91,"école polytechnique, paris"
+610,carlos florensa,91,university of california at berkeley
+611,wendelin böhmer,90,university of oxford
+612,felipe leno da silva (leno),90,university of são paulo
+613,raluca d. gaina,90,queen mary university of london
+614,dieterich lawson,90,new york university
+615,kiran yedugundla,89,karlstad university
+616,tim bauer,89,oregon state university
+617,rowan mcallister,89,"university of california, berkeley"
+618,andrew vo,89,university of western ontario
+619,di wu,88,mcgill university
+620,subramanya prasad nageshrao,87,0
+621,david abel,87,brown university
+622,kamyar azizzadenesheli,87,"university of california, irvine"
+623,ida selbing,86,aarhus university
+624,daniel r. jiang,86,university of pittsburgh
+625,voot tangkaratt,86,0
+626,guillaume sicard,86,technion
+627,stefan faußer,85,0
+628,gopalakrishnan srinivasan,85,purdue university
+629,justin fu,85,uc berkeley
+630,biprodip pal,84,rajshahi university of engineering & technology
+631,朱亚东,84,0
+632,sanjeev sharma,83,university of alberta
+633,punit pandey,83,jaypee university of engineering and technology
+634,daniel freeman,83,google
+635,manuela ruiz-montiel,82,university of malaga
+636,paul tonelli,82,0
+637,eleanor loh,82,university college london
+638,edoardo conti,82,mit
+639,melrose roderick,81,brown university
+640,qiwei ye,80,0
+641,josiah walker,79,"university of newcastle, australia"
+642,xu yankai,79,0
+643,ali shafti,79,imperial college london
+644,francisco cruz,79,university of hamburg
+645,anirban santara,78,iit kharagpur
+646,saba yahyaa,78,vub
+647,wenhao yu,78,georgia institute of technology
+648,irwan bello,78,google
+649,dajiang liu,78,chongqing university
+650,jen jen chung,77,eth zürich
+651,alexis jacq,77,ecole polytechnique federale de lausanne
+652,miljan martic,77,0
+653,richard evans,76,google
+654,chen tessler,76,technion israel institute of technology
+655,huining li,76,nanjing university of posts and telecommunications
+656,thomy phan,76,lmu munich
+657,guangliang li,75,0
+658,amr alanwar,75,"university of california, los angeles"
+659,prabuchandran kj,75,0
+660,anestis fachantidis,74,0
+661,tobias pohlen,74,0
+662,diana borsa,74,university college london
+663,wei zhang,74,national university of singapore
+664,mostafa rohaninejad,74,"university of california, berkeley"
+665,janne p. hukkinen,73,helsinki university
+666,ozgur s. oguz,73,technical university of munich
+667,dr. monjoy saha (phd),73,iit kharagpur
+668,shun zhang,73,university of michigan
+669,paul baireuther,72,leiden university
+670,kyle hollins wray,72,university of massachusetts amherst
+671,sungryull sohn,72,university of michigan
+672,ethan perez,71,rice university
+673,gheorghe comanici,71,0
+674,sander g. van dijk,69,university of hertfordshire
+675,michal gregor,69,university of žilina
+676,qingkai liang,69,mit
+677,hoang m. le,69,california institute of technology
+678,ryan c. julian,68,0
+679,behrooz masoumi,68,iau
+680,stefanos doltsinis,68,information technologies institute
+681,nakul gopalan,68,brown university
+682,mojtaba rostami kandroodi,67,radboud university
+683,xiangyu zhao,67,michigan state university
+684,bernardo ávila pires,67,university of alberta
+685,harrie oosterhuis,67,university of amsterdam
+686,marc-andré carbonneau,66,école de technologie supérieure
+687,yongfeng lv,66,0
+688,kleanthis malialis,65,university of cyprus
+689,xiaosong lu,65,carleton university
+690,gary a mchale,65,university of sussex
+691,benjamin p gold,65,mcgill university
+692,samineh bagheri,65,0
+693,yuan-hong liao,65,national tsing hua university
+694,nasrin sadeghianpourhamami,63,0
+695,sara garofalo,63,0
+696,alberto viseras,63,german aerospace centre
+697,pararth shah,63,0
+698,cathy wu,63,uc berkeley
+699,seung-seob lee,62,yonsei university
+700,bilal kartal,61,0
+701,nat dilokthanakul,61,imperial college london
+702,alvaro velasquez,61,air force research laboratory
+703,seyyed mostafa ghaemi,60,"ferdowsi university of mashhad, mashhad"
+704,syed aqeel raza,60,sunway university
+705,hu xu,60,university of illinois at chicago
+706,hitoshi kono,60,0
+707,ping hou,60,0
+708,jason omedes,59,university of zaragoza
+709,davi cl vieira,59,instituto federal de alagoas
+710,stefan depeweg,59,0
+711,sean mcgregor,59,0
+712,benjamin choo,59,university of virginia
+713,yuri grinberg,59,national research council of canada
+714,evan m. russek,59,new york university
+715,melody y. guan,59,stanford university
+716,rafael pinto,58,ufrgs
+717,ryan faulkner,58,google
+718,yitao liang,58,ucla
+719,vitchyr pong,58,"university of california, berkeley"
+720,bin wang,57,university of jinan
+721,william curran,57,0
+722,timo korthals,57,bielefeld university
+723,nabil belgasmi,56,0
+724,siddhartha verma,56,florida atlantic university
+725,rahul desai,56,"army institute of technology, pune"
+726,simone parisi,56,tu darmstadt
+727,takuya hiraoka,56,0
+728,hengshuai yao,55,university of alberta
+729,rahul jain,55,indian institute of technology delhi
+730,zita marinho,55,carnegie mellon university
+731,dan myles,55,monash university
+732,wenchen li,54,0
+733,zhaohan daniel guo,54,carnegie mellon university
+734,kevin van vaerenbergh,54,vub
+735,hann wang,54,roche
+736,matthijs snel,53,university of amsterdam
+737,philippe morere,53,university of sydney
+738,tianshu chu,53,stanford university
+739,yan qin,53,zhejiang university
+740,manu rastogi,52,0
+741,yunduan cui,52,nara institute of science and technology
+742,seydou ba,52,national institute of advanced industrial science and technology
+743,romy frömer,52,brown university
+744,erinc merdivan,52,austrian institute of technology
+745,yaodong yang,52,university college london
+746,ali ghadirzadeh,51,kth royal institute of technology
+747,pravesh ranchod,51,university of the witwatersrand
+748,mohammed abdou,51,0
+749,tim de bruin,50,delft university of technology
+750,sanmit narvekar,50,university of texas at austin
+751,minhae kwon,50,ewha womans university
+752,david catteeuw,49,vrije universiteit brussel
+753,andrey chertok,49,0
+754,afshin oroojlooy,49,lehigh university
+755,marco abundo,49,0
+756,markus thill,49,0
+757,dr. arup kumar sadhu,48,0
+758,ekhlas sonu,48,stanford university
+759,erwin walraven,48,delft university of technology
+760,mofan zhou (周沫凡),48,griffith university
+761,robert cohn,47,university of michigan
+762,rama kumar pasumarthi,47,0
+763,hussain kazmi,47,ku leuven
+764,chiel kooijman,46,university of amsterdam
+765,m. borahan tümer,46,0
+766,andrew forney,46,loyola marymount university
+767,alejandro rodriguez-ramos,46,0
+768,joshua romoff,46,mcgill university
+769,pan zhao,46,university of british columbia
+770,elaheh barati,45,0
+771,viktoriya (victoria) krakovna,45,0
+772,vesal hakami,45,iran university of science and technology
+773,eric crawford,45,mcgill university
+774,castronovo michael,44,université de liège
+775,bin hwang,44,0
+776,phuong d. ngo,44,university of tromsø
+777,min wen,44,university of pennsylvania
+778,"dipanjan ghosh, phd",44,0
+779,pravesh kriplani,44,0
+780,martin pecka,43,czech technical university
+781,richard liaw,43,"university of california, berkeley"
+782,shane barratt,43,stanford university
+783,nicolas a. gontier,43,polytechnique montreal
+784,claire vernade,42,0
+785,milad mozafari,42,university of tehran
+786,ali baheri,42,university of michigan
+787,maximilian igl,42,university of oxford
+788,alper kiliç,42,selçuk üniversitesi
+789,avinash sharma,42,concordia university
+790,seyed mohammad asghari,42,university of southern california
+791,tomoki nishi,41,"toyota central r&d labs., inc"
+792,susan amin,41,mcgill university
+793,yi jiang (姜艺),41,northeastern university
+794,david walsh,41,stanford university
+795,ziming li,41,university of amsterdam
+796,didier marin,40,upmc
+797,víctor mayoral vilches,40,0
+798,anish nk,40,arizona state university
+799,"anssi ""miffyli"" kanervisto",40,university of eastern finland
+800,thomas m. moerland,40,delft university of technology
+801,dennis soemers,40,vrije universiteit brussel
+802,paulo valente klaine,40,university of glasgow
+803,edward patzelt,39,harvard university
+804,gal dalal,39,technion
+805,christos georgakis,39,0
+806,zhi wang 王智,39,0
+807,zhao chen,39,columbia university
+808,omer gottesman,38,harvard university
+809,elahe khodadadian,38,yazd university
+810,vignesh muralidharan,38,"university of california, san diego"
+811,bingquan shen,38,dso national laboratories
+812,ngoc duy nguyen,38,deakin university
+813,jayakumar subramanian,38,mcgill university
+814,qingyun wu,38,university of virginia
+815,andreas doerr,38,0
+816,xiangyu kong,38,peking university
+817,li-fang cheng,38,princeton university
+818,zeyu zheng,38,university of michigan
+819,erfan sadeqi azer,37,indiana university - bloomington
+820,bin xu,37,clemson university
+821,ankesh anand,37,0
+822,miguel a. solis,37,0
+823,leonardo azevedo scardua,37,instituto federal do espírito santo
+824,daniel elliott,37,0
+825,abdulrahman altahhan,36,leeds beckett university
+826,farzaneh tatari,36,ferdowsi university of mashhad
+827,flood sung,36,0
+828,shakiba davari,36,virginia tech
+829,wei-xue lu (卢伟雪),36,0
+830,jiawei zhu,35,université de technologie belfort-montbéliard
+831,sarbjit sarkaria,35,university of british columbia
+832,lindsay e hunter,35,princeton university
+833,raunak bhattacharyya,35,stanford university
+834,aleksis pirinen,35,0
+835,dilip arumugam,35,stanford university
+836,affan pervez,34,technical university of munich
+837,rong guo,34,tu berlin
+838,marco tamassia,34,0
+839,matthew gershoff,34,0
+840,fangyu wu,34,"university of california, berkeley"
+841,lucio m. dery,34,0
+842,edward hughes,34,0
+843,parsa mahmoudieh,33,uc berkeley
+844,jose a. arjona-medina,33,johannes kepler university
+845,mayank daswani,32,australian national university
+846,lakshmanan k,32,indian institute of technology (bhu) varanasi
+847,james harrison,32,stanford university
+848,behnoosh parsa,32,university of washington
+849,elise van der pol,32,university of amsterdam
+850,ankit shah,32,george mason university
+851,carolin lawrence,32,heidelberg university
+852,ayaka kato,32,university of oxford
+853,evan zheran liu,32,stanford university
+854,hadrien glaude,31,amazon
+855,jonas nordhaug myhre,31,uit the arctic university of norway
+856,stefan schneider,31,university of guelph
+857,matias valdenegro-toro,30,german research center for artificial intelligence
+858,andrea baisero,30,northeastern university
+859,javier segovia-aguas,30,universitat pompeu fabra
+860,gilwoo lee,30,university of washington
+861,hanseob lee,30,0
+862,sabum jung,30,lg electronics
+863,benjamin burchfiel,30,duke university
+864,dane corneil,30,0
+865,ruben glatt,29,university of são paulo
+866,ruxandra burtica,29,adobe
+867,ludovic hofer,29,université de bordeaux
+868,chia-yue lo,28,national chung cheng university
+869,"rata suwantong, phd",28,0
+870,sahil sharma,28,iit madras
+871,daniel crawford,28,0
+872,levi d. mcclenny,28,texas a&m university
+873,jincheng mei,28,university of alberta
+874,frank g glavin,27,"national university of ireland, galway"
+875,yuu jinnai,27,brown university
+876,byung chang chung,27,0
+877,bilal h. abed-alguni,27,yarmouk university
+878,bolong cheng,27,0
+879,qingpeng cai,27,tsinghua university
+880,cristián serpell,27,0
+881,macheng shen,27,mit
+882,xuejian wang,27,carnegie mellon university
+883,jiaxian guo,27,shanghai jiao tong university
+884,roberta raileanu,27,new york university
+885,yaqian zhang,26,nanyang technological university
+886,richard klima,26,university of liverpool
+887,nirandika wanigasekara,26,national university of singapore
+888,zhang-wei hong,26,national tsing hua university
+889,baoxiang wang,26,chinese university of hong kong
+890,marc abeille,26,0
+891,barry d. nichols,25,middlesex university
+892,matthieu zimmer,25,0
+893,pedram daee,25,helsinki institute for information technology
+894,khanh nguyen,25,"university of maryland, college park"
+895,debidatta dwibedi,25,google
+896,abdollah younesi,25,0
+897,antonio loquercio,25,university of zurich
+898,reda alami,25,0
+899,karan singh,25,princeton university
+900,rubén m. sandoval,25,universidad politécnica de cartagena
+901,haifeng zhang,25,peking university
+902,yunji wang,24,0
+903,evans kirimi miriti,24,university of nairobi
+904,ruohan  zhang,24,university of texas at austin
+905,yixuan zhai,24,uc davis
+906,huikai wu,24,"institute of automation, chinese academy of sciences"
+907,heejin jeong,24,university of pennsylvania
+908,minsoo kim,24,kaist
+909,dan busbridge,24,0
+910,toryn q. klassen,24,university of toronto
+911,olov andersson,24,linköping university
+912,truc viet le,23,sap
+913,songpeng zu,23,0
+914,tushar vaidya,23,"iiit, hyderabad"
+915,leonard johard,23,0
+916,maryam tavakol,23,leuphana university of lüneburg
+917,kyle hsu,23,university of toronto
+918,oluwatosin oluwadare,23,"university of missouri, columbia"
+919,ermo wei,23,george mason university
+920,mahtab ahmed,23,0
+921,ke yu,23,cuhk
+922,muhammad burhan hafez,22,university of hamburg
+923,danijar hafner,22,google
+924,chad c. williams,22,university of victoria
+925,prannoy mupparaju,22,umass amherst
+926,raymond liu,22,0
+927,yuanyi zhong,22,0
+928,gelareh taghizadeh,22,vienna university of technology
+929,clemens rosenbaum,22,university of massachusetts amherst
+930,ivan koryakovskiy,22,delft university of technology
+931,andrii rodionov / андрій родіонов,21,0
+932,katherine chen,21,university of alberta
+933,ahmed h. anwar,21,university of central florida
+934,islam el-nabarawy,21,missouri university of science and technology
+935,kevin sebastian luck,21,arizona state university
+936,yao lu,21,0
+937,melih elibol,21,"university of california, berkeley"
+938,tomasz tajmajer,21,university of warsaw
+939,simon meister,21,0
+940,falcon zhongtian dai,21,toyota technological institute at chicago
+941,nils murrugarra-llerena. phd student,21,university of pittsburgh
+942,valentin thomas,21,university of montreal
+943,he tengjiao,21,jinan university
+944,riccardo moriconi,21,imperial college london
+945,jiachen yang,21,georgia institute of technology
+946,fangwei zhong,21,peking university
+947,jaeseok huh,20,seoul national university
+948,hugo tanzarella teixeira,20,university of campinas
+949,roxana rădulescu,20,0
+950,amarjyoti smruti,20,plymouth university
+951,benjamin eysenbach,20,google
+952,minkyu choi,20,purdue university
+953,ioannis papaioannou,20,"heriot watt university, edinburgh"
+954,adrian šošić,20,technische universität darmstadt
+955,stylianos piperakis,20,foundation for research and technology hellas
+956,qing wang,20,0
+957,dimitrios traskas,19,0
+958,john p grogan,19,university of oxford
+959,amir gheibi,19,university of tabriz
+960,sami smadi,19,0
+961,felipe maldonado,19,0
+962,siyu huang,19,zhejiang university
+963,arman mojoodi,19,"amirkabir university of technology, tehran"
+964,michael rojek giffin,19,university of leiden
+965,benjamin phillips,19,university of cambridge
+966,brijen thananjeyan,19,"university of california, berkeley"
+967,medhat elsayed,18,ottawa university
+968,adwaitvedant mathkar,18,iit bombay
+969,ashley edwards,18,georgia institute of technology
+970,vasco a. conceição,18,0
+971,navid rashedi,18,0
+972,lilian besson,18,centralesupélec
+973,subhajit chaudhury,18,0
+974,victor cărbune,18,0
+975,steven spielberg p,18,amazon.com
+976,murtaza dalal,18,uc berkeley
+977,nathan hunt,18,mit
+978,satheesh kumar perepu,17,ericsson
+979,nikolaos papahristou,17,university of macedonia
+980,mehran khodabandeh,17,simon fraser university
+981,farzaneh s. fard,17,dalhousie university
+982,sudhanshu mittal,17,indian institute of technology guwahati
+983,aishwarya padmakumar,17,university of texas at austin
+984,alessandro suglia,17,heriot-watt university
+985,jarryd martin,17,australian national university
+986,qucheng gong,17,facebook
+987,theodore s. nowak,17,university of michigan
+988,kai r. fricke,17,0
+989,abhishek agrawal,17,iit kharagpur
+990,utku erdoğdu,16,middle east technical university
+991,jiaxiao zheng,16,university of texas at austin
+992,gabriel v. de la cruz,16,washington state university
+993,shoubhik debnath,16,nvidia
+994,phaniteja s,16,iiit hyderabad
+995,jonathan strahl,16,aalto university
+996,ariel ruiz-garcia,16,coventry university
+997,rituraj kaushik,16,inria
+998,julia vinogradska,16,0
+999,oliver bent,16,university of oxford
